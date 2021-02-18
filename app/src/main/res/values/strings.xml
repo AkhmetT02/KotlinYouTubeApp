@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinYouTube App</string>
+    <string name="api_key">AIzaSyAN3XGkv9PaRYKuzi9dD3bTALhnIb2whew</string>
+    <string name="BASE_URL">https://www.googleapis.com/youtube/v3/</string>
+</resources>
